@@ -2,7 +2,8 @@
 
 ---
 + Unitree B2 RL Locomotion
-
+  
+![image](https://github.com/rlawlsdn1130/RL_NOTE/assets/88181153/911bb458-f8b0-4d2b-bf0e-7d21b74e45b2)
 <img src="https://github.com/rlawlsdn1130/RL_NOTE/assets/88181153/642881e8-058c-4d8d-8fe1-84afb4678a9c" width="400px" height="221px">
 
 
