@@ -18,6 +18,7 @@
 >* [ ] Learning manipulation and locomotion
 >  * [Pedipulate-ANYmal](https://sites.google.com/leggedrobotics.com/pedipulate)
 >  * [Deep-Whole-Body-Control](https://github.com/MarkFzp/Deep-Whole-Body-Control)
+>  * [DexterousHands](https://github.com/PKU-MARL/DexterousHands)
 
 >* [ ] Locomotion in generated custom terrain
 >  * [IsaacGym point-cloud example](https://gist.github.com/gavrielstate/8c855eb3b4b1f23e2990bc02c534792e)
@@ -29,4 +30,4 @@
 
 >* [ ] Multi-agent DRL
 >  * [MQE](https://github.com/ziyanx02/multiagent-quadruped-environment)
-
+>  * [sledge](https://github.com/autonomousvision/sledge)
