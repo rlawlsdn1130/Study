@@ -17,7 +17,7 @@
 
 >* [ ] Learning manipulation and locomotion
 >  * [Pedipulate-ANYmal](https://sites.google.com/leggedrobotics.com/pedipulate)
->  * [Loco_manipulation-ANYmal](https://www.science.org/doi/10.1126/scirobotics.adg5014)
+>  * [Loco manipulation-ANYmal](https://www.science.org/doi/10.1126/scirobotics.adg5014)
 >  * [Fall recovery-ANYmal](https://arxiv.org/abs/2303.05486)
 >  * [Deep-Whole-Body-Control](https://github.com/MarkFzp/Deep-Whole-Body-Control)
 >  * [DexterousHands](https://github.com/PKU-MARL/DexterousHands)
