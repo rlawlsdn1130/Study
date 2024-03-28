@@ -31,5 +31,6 @@
 >  * [parkour](https://github.com/ZiwenZhuang/parkour)
 
 >* [ ] Multi-agent DRL
+>  * [openrl](https://github.com/OpenRL-Lab/openrl)
 >  * [MQE](https://github.com/ziyanx02/multiagent-quadruped-environment)
 >  * [sledge](https://github.com/autonomousvision/sledge)
