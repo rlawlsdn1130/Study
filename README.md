@@ -25,4 +25,5 @@
 >* [ ] Add parkour policy to locomotion
 
 >* [ ] Multi-agent DRL
+>  * [MQE](https://github.com/ziyanx02/multiagent-quadruped-environment)
 
