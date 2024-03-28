@@ -15,7 +15,7 @@
 ---
 **TODO List**
 
->* [ ] Learning Manipulator with B2
+>* [ ] Learning manipulator with b2
 
 >* [ ] Locomotion in generated terrain
 >
@@ -23,4 +23,6 @@
 >  * [Nvidia / wrap](https://github.com/NVIDIA/warp)
 
 >* [ ] Add parkour policy to locomotion
+
+>* [ ] Multi-agent DRL
 
