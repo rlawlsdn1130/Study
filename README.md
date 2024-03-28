@@ -8,7 +8,7 @@
 
 + **Fall Recovery**
 
-+ **generate terrain**
++ **Generate Terrain**
 
 <img src="https://github.com/rlawlsdn1130/RL_NOTE/assets/88181153/9edb3527-d3b1-4659-a122-6e0a7a7ce3b8" width="320" height="200"/>
 
