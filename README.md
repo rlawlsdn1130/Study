@@ -16,4 +16,6 @@
 **TODO List**
 * [ ] Learning Manipulator with B2
 * [ ] Locomotion in generated terrain
+
+<https://gist.github.com/gavrielstate/8c855eb3b4b1f23e2990bc02c534792e>
 * [ ] Add parkour policy to locomotion
