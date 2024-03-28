@@ -14,6 +14,6 @@
 
 ---
 **TODO List**
-* [ ] Manipulator[z1] with B2
-* [ ] RL Locomotion in generated terrain [IssacGym]
+* [ ] Learning Manipulator with B2
+* [ ] Locomotion in generated terrain
 * [ ] Add parkour policy to locomotion
