@@ -1,7 +1,6 @@
 # RL_NOTE
 
 ---
-~ 240328
 + Unitree B2 RL Locomotion
 
 <img src="https://github.com/rlawlsdn1130/RL_NOTE/assets/88181153/642881e8-058c-4d8d-8fe1-84afb4678a9c" width="400px" height="221px">
