@@ -20,6 +20,7 @@
 >* [ ] Locomotion in generated terrain
 >
 >  * [IsaacGym point-cloud example](https://gist.github.com/gavrielstate/8c855eb3b4b1f23e2990bc02c534792e)
+>  * [Nvidia / wrap](https://github.com/NVIDIA/warp)
 
 >* [ ] Add parkour policy to locomotion
 
