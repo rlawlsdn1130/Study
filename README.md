@@ -34,3 +34,4 @@
 >  * [openrl](https://github.com/OpenRL-Lab/openrl)
 >  * [MQE](https://github.com/ziyanx02/multiagent-quadruped-environment)
 >  * [sledge](https://github.com/autonomousvision/sledge)
+>  * [CMPC](https://www.youtube.com/watch?v=QwijfXioXVg)
