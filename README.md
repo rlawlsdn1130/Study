@@ -16,7 +16,7 @@
 **TODO List**
 
 >* [ ] Locomotion in generated custom terrain
->  * **[Learning to walk in confined spaces using 3D representation]**(https://takahiromiki.com/publication-posts/learning-to-walk-in-confined-spaces-using-3d-representation/?i=1)
+>  * **[Learning to walk in confined spaces using 3D representation](https://takahiromiki.com/publication-posts/learning-to-walk-in-confined-spaces-using-3d-representation/?i=1)**
 >  * [IsaacGym point-cloud example](https://gist.github.com/gavrielstate/8c855eb3b4b1f23e2990bc02c534792e)
 >  * [Nvidia / wrap](https://github.com/NVIDIA/warp)
 >  * [parkour-ANYmal](https://www.science.org/doi/10.1126/scirobotics.adi7566)
