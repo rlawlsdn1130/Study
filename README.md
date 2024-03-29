@@ -15,7 +15,7 @@
 ---
 **TODO List**
 
->* [ ] Locomotion in generated custom terrain
+>* **[ ] Locomotion in generated custom terrain**
 >>* [ ] Debug gathering height map information in generated custom terrain
 >>* [ ] Add 6d commands to low-level policy
 >>* [ ] Add spherical scans to high-level policy
@@ -29,7 +29,7 @@
 >  * [extreme-parkour](https://github.com/chengxuxin/extreme-parkour)
 >  * [parkour](https://github.com/ZiwenZhuang/parkour)
 
->* [ ] Learning manipulation and locomotion
+>* **[ ] Learning manipulation and locomotion**
 >>* [ ] Fall recovery with manipulator
 >>* [ ] Fall recovery using exteroception observation
 >
@@ -40,7 +40,7 @@
 >  * [Deep-Whole-Body-Control](https://github.com/MarkFzp/Deep-Whole-Body-Control)
 >  * [DexterousHands](https://github.com/PKU-MARL/DexterousHands)
 
->* [ ] Multi-agent DRL
+>* **[ ] Multi-agent DRL**
 >>* [ ] Create URDF that includes two robots and stretcher, DOF : 12+12+6+6
 >
 >  **Reference**
