@@ -16,7 +16,9 @@
 **TODO List**
 
 >* [ ] Locomotion in generated custom terrain
->>* [ ] Add spherical scans
+>>* [ ] Debug gathering height map information in generated custom terrain
+>>* [ ] Add 6d commands to low-level policy
+>>* [ ] Add spherical scans to high-level policy
 >
 >  **Reference**
 >  * **[Learning to walk in confined spaces using 3D representation](https://takahiromiki.com/publication-posts/learning-to-walk-in-confined-spaces-using-3d-representation/?i=1)**
@@ -28,6 +30,9 @@
 >  * [parkour](https://github.com/ZiwenZhuang/parkour)
 
 >* [ ] Learning manipulation and locomotion
+>>* [ ] Fall recovery with manipulator
+>
+>  **Reference**
 >  * [Pedipulate-ANYmal](https://sites.google.com/leggedrobotics.com/pedipulate)
 >  * [Loco manipulation-ANYmal](https://www.science.org/doi/10.1126/scirobotics.adg5014)
 >  * [Fall recovery-ANYmal](https://arxiv.org/abs/2303.05486)
@@ -35,6 +40,9 @@
 >  * [DexterousHands](https://github.com/PKU-MARL/DexterousHands)
 
 >* [ ] Multi-agent DRL
+>>* [ ] Create URDF that includes two robots and stretcher, DOF : 12+12+6+6
+>
+>  **Reference**
 >  * [openrl](https://github.com/OpenRL-Lab/openrl)
 >  * [MQE](https://github.com/ziyanx02/multiagent-quadruped-environment)
 >  * [sledge](https://github.com/autonomousvision/sledge)
