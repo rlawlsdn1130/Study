@@ -16,7 +16,7 @@
 **TODO List**
 
 >* [ ] Locomotion in generated custom terrain
->    [ ] Add spherical scans
+>     [ ] Add spherical scans
 >
 >  **Reference**
 >  * **[Learning to walk in confined spaces using 3D representation](https://takahiromiki.com/publication-posts/learning-to-walk-in-confined-spaces-using-3d-representation/?i=1)**
