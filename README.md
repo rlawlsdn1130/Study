@@ -15,20 +15,21 @@
 ---
 **TODO List**
 
->* [ ] Learning manipulation and locomotion
->  * [Pedipulate-ANYmal](https://sites.google.com/leggedrobotics.com/pedipulate)
->  * [Loco manipulation-ANYmal](https://www.science.org/doi/10.1126/scirobotics.adg5014)
->  * [Fall recovery-ANYmal](https://arxiv.org/abs/2303.05486)
->  * [Deep-Whole-Body-Control](https://github.com/MarkFzp/Deep-Whole-Body-Control)
->  * [DexterousHands](https://github.com/PKU-MARL/DexterousHands)
-
 >* [ ] Locomotion in generated custom terrain
+>  * **[Learning to walk in confined spaces using 3D representation]**(https://takahiromiki.com/publication-posts/learning-to-walk-in-confined-spaces-using-3d-representation/?i=1)
 >  * [IsaacGym point-cloud example](https://gist.github.com/gavrielstate/8c855eb3b4b1f23e2990bc02c534792e)
 >  * [Nvidia / wrap](https://github.com/NVIDIA/warp)
 >  * [parkour-ANYmal](https://www.science.org/doi/10.1126/scirobotics.adi7566)
 >  * [DTC-ANYmal](https://www.science.org/doi/10.1126/scirobotics.adh5401)
 >  * [extreme-parkour](https://github.com/chengxuxin/extreme-parkour)
 >  * [parkour](https://github.com/ZiwenZhuang/parkour)
+
+>* [ ] Learning manipulation and locomotion
+>  * [Pedipulate-ANYmal](https://sites.google.com/leggedrobotics.com/pedipulate)
+>  * [Loco manipulation-ANYmal](https://www.science.org/doi/10.1126/scirobotics.adg5014)
+>  * [Fall recovery-ANYmal](https://arxiv.org/abs/2303.05486)
+>  * [Deep-Whole-Body-Control](https://github.com/MarkFzp/Deep-Whole-Body-Control)
+>  * [DexterousHands](https://github.com/PKU-MARL/DexterousHands)
 
 >* [ ] Multi-agent DRL
 >  * [openrl](https://github.com/OpenRL-Lab/openrl)
