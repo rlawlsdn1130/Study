@@ -31,6 +31,7 @@
 
 >* [ ] Learning manipulation and locomotion
 >>* [ ] Fall recovery with manipulator
+>>* [ ] Fall recovery using exteroception observation
 >
 >  **Reference**
 >  * [Pedipulate-ANYmal](https://sites.google.com/leggedrobotics.com/pedipulate)
