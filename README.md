@@ -44,6 +44,7 @@
 
 >* [ ] **Multi-agent DRL**
 >>* [ ] Create URDF that includes two robots and stretcher, DOF : 12+12+6+6
+>>* [ ] Mapping using multi robot
 >
 >  **Reference**
 >  * [openrl](https://github.com/OpenRL-Lab/openrl)
