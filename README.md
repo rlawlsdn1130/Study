@@ -17,7 +17,7 @@
 
 >* [ ] **Locomotion in generated custom terrain**
 >>* [ ] Debug gathering height map information in generated custom terrain
->>* [ ] Add 6d commands to low-level policy
+>>* [x] ~~Add 6d commands to low-level policy~~
 >>* [ ] Add spherical scans to high-level policy
 >
 >  **Reference**
