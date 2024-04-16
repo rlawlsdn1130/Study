@@ -15,6 +15,8 @@
 ---
 **TODO**
 
+>* [x] HR robot model
+
 >* [ ] **Locomotion in generated custom terrain**
 >>* [ ] Debug gathering height map information in generated custom terrain
 >>* [x] ~~Add 6d commands to low-level policy~~
