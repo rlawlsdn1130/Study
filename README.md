@@ -7,7 +7,7 @@
 <img src="https://github.com/rlawlsdn1130/RL_NOTE/assets/88181153/642881e8-058c-4d8d-8fe1-84afb4678a9c" width="322px" height="177px">
 <img src="https://github.com/rlawlsdn1130/RL_NOTE/assets/88181153/b9b92cef-f9b6-4a2a-a89a-9a8d2718ea33" width="360px" height="180px">
 
-~~+ **Fall Recovery**~~
++ ~~**Fall Recovery**~~
 
 + **Generate Terrain**
 
