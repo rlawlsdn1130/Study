@@ -12,18 +12,8 @@
 + **Generate Terrain**
 
 <img src="https://github.com/rlawlsdn1130/RL_NOTE/assets/88181153/9edb3527-d3b1-4659-a122-6e0a7a7ce3b8" width="320" height="200"/>
-<img src="https://github.com/rlawlsdn1130/RL_NOTE/assets/88181153/4311224b-113e-4657-b3a8-84675ec7801b" width="320" height="200"/>
-
-
-
-https://github.com/rlawlsdn1130/RL_NOTE/assets/88181153/da90b7a3-fb0c-4373-87fb-9d6367586d85
-
-
+![hrq1_friction222-ezgif com-video-to-gif-converter (1)](https://github.com/rlawlsdn1130/RL_NOTE/assets/88181153/28e22223-cf1b-4239-bcb7-02ea1726c519)
 <img src="https://github.com/rlawlsdn1130/RL_NOTE/assets/88181153/38020cf5-6a52-4e2a-8a48-3542e39fe28f" width="240" height="200"/>
-
-
-
-
 
 ---
 **TODO**
