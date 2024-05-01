@@ -13,7 +13,7 @@
 
 <img src="https://github.com/rlawlsdn1130/RL_NOTE/assets/88181153/9edb3527-d3b1-4659-a122-6e0a7a7ce3b8" width="320" height="200"/>
 <img src="https://github.com/rlawlsdn1130/RL_NOTE/assets/88181153/38020cf5-6a52-4e2a-8a48-3542e39fe28f" width="240" height="200"/>
-https://github.com/rlawlsdn1130/RL_NOTE/assets/88181153/fe56505b-dd3c-49e3-999c-4b08b148be39
+![image](https://github.com/rlawlsdn1130/RL_NOTE/assets/88181153/fe56505b-dd3c-49e3-999c-4b08b148be39)
 
 
 
