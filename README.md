@@ -1,4 +1,4 @@
-# RL_NOTE
+# Study
 
 ---
 + **Locomotion**
