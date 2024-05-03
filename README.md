@@ -14,7 +14,7 @@
 <img src="https://github.com/rlawlsdn1130/RL_NOTE/assets/88181153/9edb3527-d3b1-4659-a122-6e0a7a7ce3b8" width="320" height="200"/>
 <img src="https://github.com/rlawlsdn1130/RL_NOTE/assets/88181153/28e22223-cf1b-4239-bcb7-02ea1726c519" width="250" height="200"/>
 <img src="https://github.com/rlawlsdn1130/RL_NOTE/assets/88181153/38020cf5-6a52-4e2a-8a48-3542e39fe28f" width="240" height="200"/>
-![kf](https://github.com/rlawlsdn1130/RL_NOTE/assets/88181153/00fc938e-0aa6-43d8-aec9-ebb66bf0f742)
+<img src="https://github.com/rlawlsdn1130/RL_NOTE/assets/88181153/00fc938e-0aa6-43d8-aec9-ebb66bf0f742"/>
 
 ---
 **TODO**
