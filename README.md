@@ -49,7 +49,7 @@
 
 
 >* [ ] **Multi-agent DRL**
->>* [ ] Create URDF that includes two robots and stretcher, DOF : 12+12+6+6
+>>* [ ] Create URDF that includes two robots and stretcher, DOF : -
 >>* [ ] Mapping using multi robot
 >
 >  **Reference**
