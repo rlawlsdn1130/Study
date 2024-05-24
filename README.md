@@ -20,7 +20,7 @@
 **TODO**
 
 >* [ ] **Adversarial Learning**
-https://rain-bow.tistory.com/entry/%EC%A0%81%EB%8C%80%EC%A0%81-%EA%B3%B5%EA%B2%A9Adversarial-Attack-FGSMPGD
+>  * https://rain-bow.tistory.com/entry/%EC%A0%81%EB%8C%80%EC%A0%81-%EA%B3%B5%EA%B2%A9Adversarial-Attack-FGSMPGD
 
 >* [x] HR robot model
 
