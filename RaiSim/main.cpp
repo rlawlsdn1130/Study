@@ -1,6 +1,6 @@
 #include "ROTEM/Interface.h"
 #include "ROTEM/COMMON/GlobalVariables.h"
-#include "ROTEM/COMMON/RotemController.h" 
+#include "ROTEM/COMMON/RotemController.h"
 
 int main(int argc, char* argv[]){
   RotemMCU::init();
